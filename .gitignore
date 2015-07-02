@@ -1,9 +1,5 @@
-Thumbs.db
-frameworks/
-runtime/
-tools/
 .settings/
 .metadata/
 .buildpath/
-.project/
+.project
 config.json
